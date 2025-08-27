@@ -353,7 +353,6 @@ nav ul li a{
 #contact {
     padding: var(--sectionPadding);
 }
-
 .contact {
     display: grid;
     grid-template-columns: 1fr 1fr;

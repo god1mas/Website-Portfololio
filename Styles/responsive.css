@@ -101,11 +101,17 @@
         margin-bottom: 0.5rem;
     }
 
+    /* contact section */
+    .contact {
+        grid-template-columns: 1fr;
+    }
+
     /* Skills Section */
     .skills-grid {
         gap: 1rem;
     }
 
+    /* footer */
     footer {
         padding: 2rem 0;
     }
